@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "156388386064",
+    "firebase_url": "https://invent0962-default-rtdb.firebaseio.com",
+    "project_id": "invent0962",
+    "storage_bucket": "invent0962.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156388386064:android:c5993496bfba54691e7195",
+        "android_client_info": {
+          "package_name": "com.example.realdatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156388386064-2kobj8ovgtonj12uhp65oo6mhp9lf2eg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVEmZfNGV7T3PlI1P0sbqo7JkBButVjRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156388386064-2kobj8ovgtonj12uhp65oo6mhp9lf2eg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
